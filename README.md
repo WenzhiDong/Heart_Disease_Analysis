@@ -1,7 +1,7 @@
 # heart_disease_analysis
 
 ## Selected topic
-We want to study how body conditions relate to the heart disease. Using some known information, we will try to build models and predict if a person would get heart diease.
+We want to study how body conditions(blood sugar, heart rate, etc.) relate to the heart disease. Using some known information, we will try to build models and predict if a person would get heart diease.
 
 ## Reason they selected the topic
 It's important for people to identify and manage heart disease risk factors. Learning this, we can give people healthy suggestions to minimize the risk and position ourselves for long and happy lives. Besides, we can also find the potential patients, then we can get treated earlier.
