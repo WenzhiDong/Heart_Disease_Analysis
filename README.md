@@ -4,7 +4,7 @@
 We want to study how body conditions relate to the heart disease. Using some known information, we will try to build models and predict if a person would get heart diease.
 
 ## Reason they selected the topic
-Learning this can help us find the potential patients, then we can get treated earlier.
+It's important for people to identify and manage heart disease risk factors. Learning this, we can give people healthy suggestions to minimize the risk and position ourselves for long and happy lives. Besides, we can also find the potential patients, then we can get treated earlier.
 
 ## Description of the source of data
 
@@ -39,4 +39,4 @@ thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
  - What variables are the most relevant
  - how to predict the target given specific information
- 
+ - healthy suggestions for people
