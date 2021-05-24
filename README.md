@@ -1,10 +1,10 @@
 # heart_disease_analysis
 
 ## Selected topic
-We want to study how body conditions relate to the heart disease. 
+We want to study how body conditions relate to the heart disease. Using some known information, we will try to build models and predict if a person would get heart diease.
 
 ## Reason they selected the topic
-Learning this can help us find the potential patients, then we can get treated earlier to save their lives.
+Learning this can help us find the potential patients, then we can get treated earlier.
 
 ## Description of the source of data
 
@@ -35,7 +35,8 @@ thal: number of major vessels (0-3) colored by flourosopy
 thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 
-## Questions they hope to answer with the data
+## Questions we hope to answer with the data
 
- - What variables are the most relevant?
- - how to predict the target given specific variables
+ - What variables are the most relevant
+ - how to predict the target given specific information
+ 
