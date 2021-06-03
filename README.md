@@ -2,14 +2,14 @@
 
 ## Random Forest
 
-### Data preprocessing
-
-The data was spilted into two groups. Random Forest Model was used.
 
 ### Data Overview
 ![data](Resource/data.png)
 
+"target" is the dependent variable. Other variables are feature variables.
 
+### Data preprocessing
+The data was spilted into two groups. Random Forest Model was used.
 
 
 ### Confusion Matrix
