@@ -2,11 +2,15 @@
 
 ## Random Forest
 
+### Data preprocessing
+
+The data was spilted into two groups. Random Forest Model was used.
+
 ### Data Overview
 ![data](Resource/data.png)
 
 
-The data was spilted into two groups. Random Forest Model was used.
+
 
 ### Confusion Matrix
 ![cm](Resource/cm.png)
