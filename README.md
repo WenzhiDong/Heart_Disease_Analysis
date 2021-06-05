@@ -42,7 +42,7 @@ thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
  - healthy suggestions for people
 
 
-# heart_disease_analysis
+
 
 ## Random Forest
 
