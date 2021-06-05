@@ -40,3 +40,31 @@ thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
  - What variables are the most relevant
  - how to predict the target given specific information
  - healthy suggestions for people
+
+
+# heart_disease_analysis
+
+## Random Forest
+
+
+### Data Overview
+![data](Resource/data.png)
+
+"target" is the dependent variable. Other variables are feature variables.
+
+### Data preprocessing
+The data was spilted into two groups. Random Forest Model was used.
+
+
+### Confusion Matrix
+![cm](Resource/cm.png)
+
+
+### Imbalanced Classification Report
+![icr](Resource/icr.png)
+
+### Variable Importance
+cp, thalach and ca are the most important variables.
+
+![vm](Resource/vm.png)
+
