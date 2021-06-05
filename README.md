@@ -3,10 +3,10 @@
 ## Selected topic
 We want to study how body conditions(blood sugar, heart rate, etc.) relate to the heart disease. Using some known information, we will try to build models and predict if a person would get heart diease.
 
-## Reason they selected the topic
+### Reason they selected the topic
 It's important for people to identify and manage heart disease risk factors. Learning this, we can give people healthy suggestions to minimize the risk and position ourselves for long and happy lives. Besides, we can also find the potential patients, then we can get treated earlier.
 
-## Description of the source of data
+### Description of the source of data
 
 age
 
@@ -35,7 +35,7 @@ thal: number of major vessels (0-3) colored by flourosopy
 thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 
-## Questions we hope to answer with the data
+### Questions we hope to answer with the data
 
  - What variables are the most relevant
  - how to predict the target given specific information
