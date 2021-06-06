@@ -9,6 +9,13 @@ We meet online twice a week:
  - 9pm to 11pm Tuesday 
  - 9pm to 11pm Friday 
 
+### Assignment of tasks
+
+Wenzhi Dong is responsible for presentation part and maching learning part.
+
+Jingzhi is responsible for SQL.
+
+We will do dashboard together.
 
 ## Random Forest
 
